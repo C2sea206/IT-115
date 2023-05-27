@@ -15,3 +15,9 @@ if 10 < 99:
   print("99 is greater than 10")
 else:
   print("false")
+
+print(message.upper())
+
+name = input("What is your name?: ")
+
+print(message + name)

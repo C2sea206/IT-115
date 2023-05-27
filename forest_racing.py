@@ -1,5 +1,6 @@
 import random
 
+#Few errors 
 
 stage = codebug_tether.CodeBug()
 
